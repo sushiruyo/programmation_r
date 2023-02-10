@@ -1,3 +1,3 @@
 # programmation_r
 
-le fichier est modifié
+Exercices 1 à 4
